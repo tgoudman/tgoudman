@@ -1,5 +1,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00b09b,100:96c93d&text=GOUDMAND%20THIBAULT&textBg=false&fontSize=50&animation=blink&desc=my%20Github%20page&reversal=true" alt="banner image">
+
 ## Hi there 👋
 
 Currently: I am doing an internship at TotalEnergies until mid-October 2026.
