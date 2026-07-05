@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-Currently: I am doing an internship at TotalEnergies until mid-October 2026.
+Currently: I am doing an internship at <strong> TotalEnergies </strong>until mid-October 2026.
 
 **🔭 I'm currently developing an application based on Flask**
 - Learning AJAX
