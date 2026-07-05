@@ -10,6 +10,9 @@ Currently: I am doing an internship at TotalEnergies until mid-October 2026.
 - Creating routes
 - Extracting data from SVG files
 - Building tree structures (nodes & edges) with NetworkX to recreate organizational charts
+
+
+ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 <!--
 **tgoudman/tgoudman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
